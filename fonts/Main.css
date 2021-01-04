@@ -3,6 +3,24 @@
   src: url("files/Long_Shot.ttf");
 }
 
+@font-face {
+  font-family: varsityTeam-font;
+  src: url("files/VarsityTeam-Bold.otf");
+}
+
+@font-face {
+  font-family: bigSpace-font;
+  src: url("files/BigSpace.ttf");
+}
+
 .Longshot {
   font-family: longShot-font;
+}
+
+.VarsityTeam {
+  font-family: varsityTeam-font;
+}
+
+.BigSpace {
+  font-family: bigSpace-font;
 }
