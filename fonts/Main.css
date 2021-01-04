@@ -1,0 +1,8 @@
+@font-face {
+  font-family: longShot-font;
+  src: url("files/Long_Shot.ttf");
+}
+
+.Longshot {
+  font-family: longShot-font;
+}
